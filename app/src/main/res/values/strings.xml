@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Different Layouts</string>
+    <string name="student_registration">Student Registration</string>
+    <string name="enter_your_details_below">Enter your details below</string>
+</resources>
